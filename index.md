@@ -10,3 +10,6 @@ learning markdown
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] fish
+- [ ] dog
+- [ ] tree
